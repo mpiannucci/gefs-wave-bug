@@ -1,0 +1,7 @@
+numpy
+matplotlib
+ipykernel
+xarray
+cf_xarray
+gribberish[xarray]@git+https://github.com/mpiannucci/gribberish.git#egg=gribberish\&subdirectory=python
+scipy
