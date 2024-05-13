@@ -1,6 +1,6 @@
 # GEFS Wave Station Bug
 
-THis project attempts to reverse engineer the correct GEFS Wave Height Spread from the station export. Currently the values are way off, and NWS is aware but they have not fixed it since I reported 8 months ago, so attempting to find the bug myself
+This project simply shows that the output of the GEFS stations file is only outputting the mean parameters and not the spread, the formatting is just not lined up so it is not clear. 
 
 ## Get Dependencies
 
