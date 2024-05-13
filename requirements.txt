@@ -1,7 +1,7 @@
 numpy
 matplotlib
 ipykernel
-xarray
+xarray==2024.2.0
 cf_xarray
 gribberish[xarray]@git+https://github.com/mpiannucci/gribberish.git#egg=gribberish\&subdirectory=python
 scipy
